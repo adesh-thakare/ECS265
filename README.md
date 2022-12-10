@@ -27,7 +27,7 @@ Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
 #### Campaign Show:
 ![image](https://user-images.githubusercontent.com/44316648/206825181-665f095e-b9d9-457a-8ed8-31bfb246b4c0.png)
 ![image](https://user-images.githubusercontent.com/44316648/206825182-b7b5ecd2-a3ba-4f91-a4ae-65d86237908a.png)
-#### Create Requets
+#### Create Requests
 ![image](https://user-images.githubusercontent.com/44316648/206825301-2a677b46-8f28-43f1-8018-3547609b05dd.png)
 #### View Requests
 ![image](https://user-images.githubusercontent.com/44316648/206825264-cd7affaa-7c9b-41dd-949e-3c070a5478f0.png)
