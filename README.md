@@ -1,5 +1,6 @@
 # ECS 265 Final Project 
 Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
+- Our aim is to build the smart contract using Scrypto and deploy it on the Radix public network
 
 ## How to test
 1. Go into the scrypto directory: `cd scrypto`
