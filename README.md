@@ -16,4 +16,4 @@ Crowdfunding using Scrypto Radix Blockchain
 1. Finalize the request: `resim call-method [component_address] finalize_request 0 1,[member_badge_address]`
 1. Look at the resource in account1: `resim show [account1_address]`. It should show 1010 XRD!
 
-##### Link to our demo : https://drive.google.com/file/d/1SGYJ1ws0Q5VSNzR4CAFb5RQMHy46QYBU/view?usp=sharing
+#### Link to our demo : https://drive.google.com/file/d/1SGYJ1ws0Q5VSNzR4CAFb5RQMHy46QYBU/view?usp=sharing
