@@ -1,5 +1,5 @@
 # ECS 265 Final Project 
-Crowdfunding using Scrypto Radix Blockchain
+Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
 
 ## How to test
 1. Go into the scrypto directory: `cd scrypto`
