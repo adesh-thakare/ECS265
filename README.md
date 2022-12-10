@@ -22,6 +22,9 @@ Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
 - The presentation can be [found here](https://docs.google.com/presentation/d/1wZ35bw-Ks85Uil0jOMCuLJeRm51LV1xn6hsDynkHWps/edit#slide=id.p)
 
 ## UI diagrams
+
+-Below are images of example User Interfaces we could present on program on. The UI is built on proto.io. The images include screencaptures of the main page, create a campaign, current open campaigns (before and after adding a new campaign), more information of a campaign (before and after a donation), create a request, and view requests
+
 #### Main Page:
 ![image](https://user-images.githubusercontent.com/44316648/206825085-b5776df0-88b0-4130-b22e-e28f48d130a3.png)
 #### Create Campaign
