@@ -16,6 +16,10 @@ Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
 1. Finalize the request: `resim call-method [component_address] finalize_request 0 1,[member_badge_address]`
 1. Look at the resource in account1: `resim show [account1_address]`. It should show 1010 XRD!
 
+## Demo and PPT
+- Our demo can be [found here](https://drive.google.com/file/d/1SGYJ1ws0Q5VSNzR4CAFb5RQMHy46QYBU/view?usp=sharing)
+- The presentation can be [found here](https://docs.google.com/presentation/d/1wZ35bw-Ks85Uil0jOMCuLJeRm51LV1xn6hsDynkHWps/edit#slide=id.p)
+
 ## UI diagrams
 #### Main Page:
 ![image](https://user-images.githubusercontent.com/44316648/206825085-b5776df0-88b0-4130-b22e-e28f48d130a3.png)
@@ -31,8 +35,3 @@ Crowdfunding using Scrypto [Radix](https://www.radixdlt.com/) Blockchain
 ![image](https://user-images.githubusercontent.com/44316648/206825301-2a677b46-8f28-43f1-8018-3547609b05dd.png)
 #### View Requests
 ![image](https://user-images.githubusercontent.com/44316648/206825264-cd7affaa-7c9b-41dd-949e-3c070a5478f0.png)
-
-
-## Demo and PPT
-- Our demo can be [found here](https://drive.google.com/file/d/1SGYJ1ws0Q5VSNzR4CAFb5RQMHy46QYBU/view?usp=sharing)
-- The presentation can be [found here](https://docs.google.com/presentation/d/1wZ35bw-Ks85Uil0jOMCuLJeRm51LV1xn6hsDynkHWps/edit#slide=id.p)
